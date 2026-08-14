@@ -20,42 +20,21 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [Disclaimer](#disclaimer)
 
 ## SaaS/Hosted Platforms
-- **[InfinityQS / ProFicient / Enact](https://www.infinityqs.com/)**  
-  Enterprise-grade real-time SPC and quality management platform widely used for multi-plant monitoring, automated data collection, control charts, and corrective-action workflows.
 
-- **[Datarly](https://www.datarly.com/)**  
-  Modern SPC and quality analytics solution focused on real-time process visibility and data-driven decision making.
-
-- **[WinSPC](https://www.winspc.com/)**  
-  Real-time statistical process control software for the shop floor, with strong integration to measurement devices, MES, and ERP systems.
-
-- **[Q-DAS (Hexagon)](https://www.q-das.com/)**  
-  Industry-standard statistical evaluation and process capability suite (qs-STAT, Procella) heavily adopted in automotive and precision manufacturing.
-
-- **[ProFicient (InfinityQS)](https://www.infinityqs.com/)**  
-  Real-time SPC engine for high-volume production environments with dashboards, alerts, and multi-site capability.
-
-- **[SPC XL](https://www.sigmazone.com/)**  
-  Excel-based SPC add-in popular for quick control charting, capability analysis, and training environments.
-
-- **[Capture3D / related metrology SPC](https://www.capture3d.com/)**  
-  Solutions that combine 3D measurement data with process control and quality analytics.
-
-- **[DataLyzer](https://www.datalyzer.com/)**  
-  Qualis SPC and related tools for highly regulated industries, offering control charts, MSA, and quality data management.
-
-- **[SQCpack](https://www.pqsystems.com/)**  
-  Classic SPC software from PQ Systems for control charting, capability studies, and quality reporting.
-
-- **[Minitab Connect / Minitab Real-Time SPC / Minitab Workspace](https://www.minitab.com/)**  
-  Minitab’s ecosystem for statistical analysis, real-time SPC monitoring, process improvement projects, and guided analytics.
-
-- **[SoftExpert SPC](https://www.softexpert.com/)**  
-  SPC module within SoftExpert’s broader quality and compliance platform.
-
-- **[InspectPoint SPC / Quality Window](https://)**  
-  Specialized or regional SPC and inspection tools focused on practical shop-floor quality control.
-
+| Product Name | Description | Pricing | Free Tier Limit |
+| --- | --- | --- | --- |
+| **[InfinityQS / ProFicient / Enact](https://www.infinityqs.com/)** | Enterprise-grade real-time SPC and quality management platform widely used for multi-plant monitoring, automated data collection, control charts, and corrective-action workflows. | ~$50 - $65/user/month (estimated starting price) | No free tier; personalized evaluation environment provided upon request. |
+| **[Datarly](https://www.datarly.com/)** | Modern SPC and quality analytics solution focused on real-time process visibility and data-driven decision making. | $1,499 (Starter Plan) | 7-day free trial for qualified clients. |
+| **[WinSPC](https://www.winspc.com/)** | Real-time statistical process control software for the shop floor, with strong integration to measurement devices, MES, and ERP systems. | ~$1,600 (One-time license starting price) | Fully functional free trial on request (duration negotiated, typically 14-30 days). |
+| **[Q-DAS (Hexagon)](https://www.q-das.com/)** | Industry-standard statistical evaluation and process capability suite (qs-STAT, Procella) heavily adopted in automotive and precision manufacturing. | ~$10,000+ (Estimated starting cost for enterprise deployment) | 3-month trial license available for specific modules (limited to 1 installation). |
+| **[ProFicient (InfinityQS)](https://www.infinityqs.com/)** | Real-time SPC engine for high-volume production environments with dashboards, alerts, and multi-site capability. | ~$50 - $65/user/month (estimated starting price) | No free tier; personalized evaluation environment provided upon request. |
+| **[SPC XL](https://www.sigmazone.com/)** | Excel-based SPC add-in popular for quick control charting, capability analysis, and training environments. | ~$299 (Estimated perpetual license) | 10-day fully functional free trial. |
+| **[Capture3D / related metrology SPC](https://www.capture3d.com/)** | Solutions that combine 3D measurement data with process control and quality analytics. | ~$5,000+ (Estimated starting cost for metrology hardware/software bundle) | No free tier; evaluation licenses provided individually by sales. |
+| **[DataLyzer](https://www.datalyzer.com/)** | Qualis SPC and related tools for highly regulated industries, offering control charts, MSA, and quality data management. | ~$1,295 (Starting one-time license per module) | No free tier; free personalized demos provided using your own data. |
+| **[SQCpack](https://www.pqsystems.com/)** | Classic SPC software from PQ Systems for control charting, capability studies, and quality reporting. | $1,590 (Starting one-time license) | 14-day or 300-use free trial (fully functional). |
+| **[Minitab Connect / Minitab Real-Time SPC / Minitab Workspace](https://www.minitab.com/)** | Minitab’s ecosystem for statistical analysis, real-time SPC monitoring, process improvement projects, and guided analytics. | ~$1,330 - $1,481/user/year (Starting price) | 14-day free trial. |
+| **[SoftExpert SPC](https://www.softexpert.com/)** | SPC module within SoftExpert’s broader quality and compliance platform. | ~$1,000+ (Estimated starting price for modular deployment) | No free tier; personalized product demos available upon request. |
+| **[InspectPoint SPC / Quality Window](https://)** | Specialized or regional SPC and inspection tools focused on practical shop-floor quality control. | ~$129/user/month (InspectPoint starting tier estimate) | InspectPoint: No trial (demo only). Quality Window: Free trial via portal (duration provided upon approval). |
 ## Open-Source GitHub Projects
 - **[PySpc](https://github.com/carlosqsilva/pyspc)**  
   Popular Python library for creating a wide range of Statistical Process Control charts (variables, attributes, multivariate, EWMA, CUSUM) with a simple, human-friendly API.
