@@ -1,0 +1,51 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1E3A8A;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3B82F6;stop-opacity:1" />
+    </linearGradient>
+    <style>
+      .title { font: bold 40px sans-serif; fill: white; }
+      .subtitle { font: 20px sans-serif; fill: #E0E7FF; }
+      .chart-line { fill: none; stroke: #F59E0B; stroke-width: 4; }
+      .point { fill: #FCD34D; }
+      @keyframes dash {
+        to { stroke-dashoffset: 0; }
+      }
+      .animated-line {
+        stroke-dasharray: 1000;
+        stroke-dashoffset: 1000;
+        animation: dash 3s linear forwards infinite;
+      }
+      @keyframes pulse {
+        0% { r: 4; }
+        50% { r: 6; fill: #EF4444; }
+        100% { r: 4; }
+      }
+      .alert-point {
+        animation: pulse 1.5s infinite;
+      }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#grad1)" rx="15" />
+  
+  <text x="40" y="80" class="title">Statistical Process Control</text>
+  <text x="40" y="120" class="subtitle">Ecosystem &amp; Resources</text>
+
+  <!-- Control Chart Graphic -->
+  <path d="M 450,150 L 500,90 L 550,130 L 600,60 L 650,140 L 700,50 L 750,120" class="chart-line animated-line" />
+  
+  <!-- Control Limits -->
+  <line x1="450" y1="50" x2="750" y2="50" stroke="#EF4444" stroke-width="2" stroke-dasharray="5,5" />
+  <line x1="450" y1="100" x2="750" y2="100" stroke="#10B981" stroke-width="2" />
+  <line x1="450" y1="150" x2="750" y2="150" stroke="#EF4444" stroke-width="2" stroke-dasharray="5,5" />
+
+  <!-- Data Points -->
+  <circle cx="500" cy="90" r="4" class="point" />
+  <circle cx="550" cy="130" r="4" class="point" />
+  <circle cx="600" cy="60" r="4" class="point" />
+  <circle cx="650" cy="140" r="4" class="point" />
+  <!-- Alert point (out of control) -->
+  <circle cx="700" cy="50" r="4" class="point alert-point" />
+  <circle cx="750" cy="120" r="4" class="point" />
+</svg>
