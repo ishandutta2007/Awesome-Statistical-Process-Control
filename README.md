@@ -1,6 +1,6 @@
 # Awesome-Statistical-Process-Control
 
-# Top Statistical Process Control (SPC) Platforms Ecosystem
+## Top Statistical Process Control (SPC) Platforms Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Control Charts, Real-Time Process Monitoring, Capability Analysis, Out-of-Control Detection & Quality Improvement*
 **Last updated: August 2026**
