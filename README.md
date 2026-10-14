@@ -38,6 +38,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Datarly](https://www.datarly.com/)** | Modern SPC and quality analytics solution focused on real-time process visibility and data-driven decision making. | Startup / Seed | $1,499 (Starter Plan) | 7-day free trial for qualified clients. |
 | **[InspectPoint SPC / Quality Window](https://)** | Specialized or regional SPC and inspection tools focused on practical shop-floor quality control. | ~$2M - $5M (Estimated) | ~$129/user/month (InspectPoint starting tier estimate) | InspectPoint: No trial (demo only). Quality Window: Free trial via portal (duration provided upon approval). |
 | **[SPC XL](https://www.sigmazone.com/)** | Excel-based SPC add-in popular for quick control charting, capability analysis, and training environments. | Small Business | ~$299 (Estimated perpetual license) | 10-day fully functional free trial. |
+| **[Engineering on Web Analysis](https://engineeringonweb.com/analysis/?lang=en)** | Browser-based industrial statistics tool with control charts, process capability and design of experiments, plus a generator that exports a SCADA app for Windows, macOS and Linux. SaaS (closed source). | Independent developer (Brazil) | Free | Fully free; no account or installation required. |
 
 ## 🛠️ Open-Source GitHub Projects
 
